@@ -1,3 +1,4 @@
 # epidemic-statistics
 a map for Chinese epidemic statistics
-install requirement -txt
+# install requirement for linux
+pip install requirement.txt 
