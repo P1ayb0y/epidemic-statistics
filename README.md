@@ -1,4 +1,5 @@
-# epidemic-statistics
+# epidemic-statistics/疫情地图
 a map for Chinese epidemic statistics
-# install requirement for linux
+本项目通过爬取疫情数据，通过echarts的map将数据通过地图表示出来
+# install requirement for Linux/Linux系统下安装所需要的python包
 pip install -r requirement.txt 
